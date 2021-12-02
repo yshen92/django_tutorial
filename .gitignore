@@ -29,7 +29,4 @@ $RECYCLE.BIN/
 # Visual Studio
 .vscode/
 .history/
-*.code-workspace
-
-# MySite
-mysite/*
+*.code-workspaces
